@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Prachi Mishra 👋
 
-<!--
-**2006prachimishra-ship-it/2006prachimishra-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student in Computer Science and Data Science at G.L. Bajaj Institute of Technology and Management, Greater Noida.
 
-Here are some ideas to get you started:
+I enjoy turning what I learn in class into working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** C, C++, Python, HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Projects
+
+- **[Online Book Store](https://github.com/2006prachimishra-ship-it/Online-Book-Store)**: A multi-page bookstore website with login, registration, catalogue, cart, and branch-wise book category pages, built with HTML and CSS.
+- **[Cinesphere](https://github.com/2006prachimishra-ship-it/Cinesphere)**: A full-stack movie discovery and community platform with user authentication, watchlists, and movie data from the TMDB API.
+- **[Sentinel Chain](https://github.com/2006prachimishra-ship-it/Sentinel-Chain-AI-Cyber-Defense)**: A cybersecurity platform that collects logs, detects threats using AI, and stores tamper-proof incident evidence on Hyperledger Fabric.
+- **[Summer Assignment](https://github.com/2006prachimishra-ship-it/Summer_Assignment_25114CN041)**: College summer assignment in C.
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Web Development
+- Python
+
+## 📫 Contact
+
+- Email: 2006prachimishra@gmail.com
+- LinkedIn: [Prachi Mishra](https://www.linkedin.com/in/prachi-mishra-32693434b)
